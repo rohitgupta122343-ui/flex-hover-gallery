@@ -30,17 +30,17 @@ main section:hover {
   cursor: pointer;
 }
 main section:nth-child(1) {
-  background-image: url(./bmw.jpg);
+  background-image: url(./images/bmw.jpg);
 }
 main section:nth-child(2) {
-  background-image: url(./c2.avif);
+  background-image: url(./images/c2.avif);
 }
 main section:nth-child(3) {
-  background-image: url(./car3.avif);
+  background-image: url(./images/car3.avif);
 }
 main section:nth-child(4) {
-  background-image: url(./car4.avif);
+  background-image: url(./images/car4.avif);
 }
 main section:nth-child(5) {
-  background-image: url(./lambo.avif);
+  background-image: url(./images/lambo.avif);
 }/*# sourceMappingURL=style.css.map */
